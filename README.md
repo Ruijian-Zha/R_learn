@@ -30,7 +30,7 @@ install.packages("languageserver")
    - Select "Preferences: Open User Settings (JSON)"
 
 5. Add the following R configuration to your settings.json:
-```json
+```
 {
     "r.rterm.option": [
         "--r-binary=/usr/local/bin/R",  // Replace with your R path from Step 1
