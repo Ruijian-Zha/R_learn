@@ -38,6 +38,7 @@ install.packages("languageserver")
         "--no-restore"                  // Optional: Prevent restoring workspaces
     ]
 }
+```
 
 6. Running R Scripts
 1. Open a new terminal and type `R` to start the R console
