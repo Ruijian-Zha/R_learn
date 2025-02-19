@@ -41,7 +41,7 @@ install.packages("languageserver")
 ```
 
 6. Running R Scripts
-1. Open a new terminal and type `R` to start the R console
-2. To run your R script, you can either:
-   - Click the "Run" button in the editor
-   - Select the code and press Cmd+Enter to run the selected portion
+   1. Open a new terminal and type `R` to start the R console
+   2. To run your R script, you can either:
+      - Click the "Run" button in the editor
+      - Select the code and press Cmd+Enter to run the selected portion
